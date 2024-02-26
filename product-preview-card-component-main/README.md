@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://product-preview-card-omega-three.vercel.app](https://product-preview-card-omega-three.vercel.app)
 
 ## My process
 
